@@ -1,0 +1,290 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iPhone 14 Pro",
+      "product_image": "https://example.com/iphone14pro.jpg",
+      "category": "Mobile",
+      "price": 999,
+      "description": "Experience the power of the A16 Bionic chip.",
+      "specification": {
+        "display": "6.1-inch Super Retina XDR display",
+        "storage": "128GB",
+        "ram": "6GB",
+        "camera": "Triple 48MP camera system"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://example.com/galaxys23ultra.jpg",
+      "category": "Mobile",
+      "price": 1199,
+      "description": "The ultimate smartphone experience.",
+      "specification": {
+        "display": "6.8-inch Dynamic AMOLED 2X display",
+        "storage": "256GB",
+        "ram": "12GB",
+        "camera": "200MP main camera"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "Google Pixel 7 Pro",
+      "product_image": "https://example.com/pixel7pro.jpg",
+      "category": "Mobile",
+      "price": 899,
+      "description": "Experience the power of Google Tensor G2.",
+      "specification": {
+        "display": "6.7-inch OLED display",
+        "storage": "128GB",
+        "ram": "12GB",
+        "camera": "50MP main camera"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "OnePlus 11",
+      "product_image": "https://example.com/oneplus11.jpg",
+      "category": "Mobile",
+      "price": 799,
+      "description": "Fast and smooth performance with OxygenOS.",
+      "specification": {
+        "display": "6.7-inch AMOLED display",
+        "storage": "256GB",
+        "ram": "16GB",
+        "camera": "50MP main camera"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 5,
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://example.com/xiaomi13pro.jpg",
+      "category": "Mobile",
+      "price": 999,
+      "description": "Flagship performance at an attractive price.",
+      "specification": {
+        "display": "6.73-inch AMOLED display",
+        "storage": "256GB",
+        "ram": "12GB",
+        "camera": "50MP main camera"
+      },
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://example.com/macbookpro14.jpg",
+      "category": "Laptop",
+      "price": 1999,
+      "description": "Powerful and portable.",
+      "specification": {
+        "display": "14.2-inch Liquid Retina XDR display",
+        "processor": "Apple M2 Pro chip",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 7,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://example.com/dellxps13.jpg",
+      "category": "Laptop",
+      "price": 1299,
+      "description": "Premium ultrabook with stunning design.",
+      "specification": {
+        "display": "13.4-inch OLED display",
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 8,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://example.com/thinkpadx1.jpg",
+      "category": "Laptop",
+      "price": 1799,
+      "description": "Business-class laptop with durability and performance.",
+      "specification": {
+        "display": "14-inch OLED display",
+        "processor": "Intel Core i7",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 9,
+      "product_title": "ASUS Zenbook 14",
+      "product_image": "https://example.com/asuszenbook14.jpg",
+      "category": "Laptop",
+      "price": 999,
+      "description": "Stylish and lightweight laptop with impressive performance.",
+      "specification": {
+        "display": "14-inch OLED display",
+        "processor": "AMD Ryzen 7",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://example.com/hspectrex360.jpg",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "Versatile 2-in-1 laptop with premium build quality.",
+      "specification": {
+        "display": "13.5-inch OLED display",
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "1TB SSD"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 11,
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://example.com/applewatch8.jpg",
+      "category": "SmartWatch",
+      "price": 399,
+      "description": "Advanced health and fitness tracking.",
+      "specification": {
+        "display": "Always-On Retina display",
+        "water_resistance": "50 meters",
+        "features": "ECG, Blood Oxygen, Fall Detection"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 12,
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://example.com/galaxywatch6.jpg",
+      "category": "SmartWatch",
+      "price": 299,
+      "description": "Stylish and feature-rich smartwatch.",
+      "specification": {
+        "display": "Super AMOLED display",
+        "features": "ECG, Blood Pressure Monitoring, Sleep Tracking"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 13,
+      "product_title": "Garmin Fenix 7",
+      "product_image": "https://example.com/garminfenix7.jpg",
+      "category": "SmartWatch",
+      "price": 699,
+      "description": "Premium multi-sport GPS smartwatch.",
+      "specification": {
+        "features": "GPS, GLONASS, Galileo, heart rate, music storage"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 14,
+      "product_title": "Fitbit Sense 2",
+      "product_image": "https://example.com/fitbitsense2.jpg",
+      "category": "SmartWatch",
+      "price": 699,
+      "description": "Premium multi-sport GPS smartwatch.",
+      "specification": {
+        "features": "GPS, GLONASS, Galileo, heart rate, music storage"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+        "product_id": 15,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://example.com/wh1000xm5.jpg",
+        "category": "Accessories",
+        "price": 399,
+        "description": "Industry-leading noise cancellation.",
+        "specification": {
+          "type": "Over-ear",
+          "connectivity": "Bluetooth",
+          "battery": "30 hours"
+        },
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 16,
+        "product_title": "Bose QuietComfort Earbuds II",
+        "product_image": "https://example.com/boseqc2.jpg",
+        "category": "Accessories",
+        "price": 299,
+        "description": "Exceptional noise cancellation.",
+        "specification": {
+          "type": "True Wireless",
+          "connectivity": "Bluetooth",
+          "battery": "6 hours (up to 24 with case)"
+        },
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 17,
+        "product_title": "Logitech G Pro X Superlight",
+        "product_image": "https://example.com/logitechgpro.jpg",
+        "category": "Accessories",
+        "price": 149,
+        "description": "Lightweight and high-performance gaming mouse.",
+        "specification": {
+          "weight": "63 grams",
+          "DPI": "26,000 DPI"
+        },
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": 18,
+        "product_title": "Anker PowerCore 20000",
+        "product_image": "https://example.com/ankerpowercore.jpg",
+        "category": "Accessories",
+        "price": 49,
+        "description": "High-capacity portable charger.",
+        "specification": {
+          "capacity": "20000mAh",
+          "output": "18W"
+        },
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 19,
+        "product_title": "SanDisk Extreme Pro SD Card",
+        "product_image": "https://example.com/sandiskcard.jpg",
+        "category": "Accessories",
+        "price": 59,
+        "description": "High-speed memory card for cameras and drones.",
+        "specification": {
+          "capacity": "128GB",
+          "read speed": "170MB/s",
+          "write speed": "90MB/s"
+        },
+        "availability": true,
+        "rating": 4.8
+      }
+    ]
