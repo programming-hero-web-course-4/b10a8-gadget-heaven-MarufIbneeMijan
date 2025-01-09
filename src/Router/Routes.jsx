@@ -6,6 +6,8 @@ import MainLayout from "../Layout/MainLayout.Jsx";
 import Home from "../Page/Home";
 import Details from "../Page/Details";
 import Cart from "../Page/Cart";
+import Dashboard from "../Page/Dashboard";
+import WishList from "../Page/WishList";
 
 
 
@@ -25,6 +27,14 @@ import Cart from "../Page/Cart";
         {
             path:'cart',
             element:<Cart></Cart>
+        },
+        {
+            path:'dashboard',
+            element:<Dashboard></Dashboard>
+        },
+        {
+            path:'wishlist',
+            element:<WishList></WishList>
         }
       ]
     },
